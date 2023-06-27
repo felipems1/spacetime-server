@@ -1,4 +1,4 @@
-<h1 align="center">NLW Spacetime</h1>
+<h1 align="center">NLW Spacetime - API</h1>
 
 <h2>Tecnologias:</h2>
 
